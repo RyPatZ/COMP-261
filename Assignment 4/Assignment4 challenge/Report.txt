@@ -1,0 +1,2 @@
+﻿I have done everything for stage0 to stage 3. 
+and for stage 4 , the challenge part , I only Variables are checked for assignment before use, if the variable was not declared , I throw an exception indicates variable can not be used before it is declared.

@@ -1,0 +1,32 @@
+[q]Minimum: 30[/q]
+[q]Core: 30[/q]
+[q]Completion: 28[/q]
+[q]Challenge: 17[/q]
+
+Minimum out of 30:
+* [10] Finds articulation points in one connected component of the graph (the graph may be disconnected by itself).
+* [5] Uses the correct graph structure, i.e. ignores one way. (Articulation points should use an undirected graph.)
+* [5] Displays the selected nodes. (i.e. displays art pts)
+* [5] Have a report with pseudocode of the algorithms.
+* [5] Finds articulation points in all components of the (disconnected) graph.
+
+Core out of 30 (up to 60):
+* [10] Finds a minimum spanning tree in one connected component of the graph (the graph may be disconnected by itself).
+* [5] Uses the correct graph structure, i.e. ignores one way and with edge weight.
+* [5] Displays the found minimum spanning tree.
+* [5] Have a report with pseudocode of the algorithms.
+* [5] Finds minimum spanning trees for all components of the (disconnected) graph.
+
+Completion out of 28 (up to 88):
+* [10] Answer the question about articulation points.
+* [10] Answer the question about minimum spanning tree.
+* [8] Answer the first question about Fast Fourier Transform.
+
+Challenge out of 17 (up to 100, with 5 spare marks):
+* [5] Uses the iterative version of the articulation points algorithm.
+* [5] Uses Kruskal's algorithm with the disjoint set data structure.
+* [7] Answer the second question about Fast Fourier Transform.
+
+Final mark calculation:
+
+[q]Minimum: 30[/q] + [q]Core: 30[/q] + [q]Completion: 28[/q] + [q]Challenge: 17[/q]

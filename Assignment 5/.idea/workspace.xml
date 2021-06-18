@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Assignment 5:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bb3367b-8777-43b7-876f-062e4d1b5589" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dRa0GjsrD2ONisxTj9AhltP8Ml" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Assignment5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment5" />
+      <module name="Assignment 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb3367b-8777-43b7-876f-062e4d1b5589" name="Default Changelist" comment="" />
+      <created>1592390134910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592390134910</updated>
+      <workItem from="1592390137447" duration="22462000" />
+      <workItem from="1592572047273" duration="26463000" />
+      <workItem from="1592912833421" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592450927270">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="458" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.829@0.23.1440.829" timestamp="1592450927270" />
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1592545427897">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="533" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1592545427897" />
+    <state x="458" y="228" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592761802484">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="458" y="228" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.829@0.23.1440.829" timestamp="1592761802484" />
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592633319154">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.829@0.23.1440.829" timestamp="1592633319154" />
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom" timestamp="1592901337934">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1592901337934" />
+    <state width="1397" height="214" key="GridCell.Tab.0.center" timestamp="1592901337933">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1397" height="214" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1592901337933" />
+    <state width="1397" height="214" key="GridCell.Tab.0.left" timestamp="1592901337932">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1397" height="214" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1592901337932" />
+    <state width="1397" height="214" key="GridCell.Tab.0.right" timestamp="1592901337934">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1397" height="214" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1592901337934" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1592761809790">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1592761809790" />
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1592390138270">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="399" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1592390138270" />
+  </component>
+</project>
